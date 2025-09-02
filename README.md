@@ -117,8 +117,6 @@ python run_app.py
 
 ### Cloud Deployment
 - **Streamlit Cloud**: Connect GitHub repository
-- **Heroku**: Use Procfile for deployment
-- **AWS/GCP**: Container deployment with Docker
 
 ## 📈 Performance Metrics
 
